@@ -1,0 +1,20 @@
+ /* Estilos para o cabeçalho */
+ header {
+    background-color: #b1ab99;
+    color: #4b4737;
+    text-align: center: acessórios da ana 
+    padding: 20px;
+}
+
+/* Estilos para a parte principal */
+main {
+    padding: 20px;
+}
+
+/* Estilos para o rodapé */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
